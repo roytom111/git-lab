@@ -48,3 +48,11 @@ Answer7 :2 files changed, 0 insertions(+), 0 deletions(-)
 Answer 8: commit 28816bf6618207b46a56730e768eecfec0e3a8ae (HEAD -> master)
 Author: Roy Frimpong <rf376519@ohio.edu>
 Date:   Thu Sep 3 16:07:59 2020 -0400
+Answer 10: there no changes in my local copy
+answer 11: it says everything is up to date
+answer 12: Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+ answer 13: d-----         9/3/2020   5:26 PM                git-lab-2
+d-----        8/27/2020   3:09 PM                hw
+d-----        8/27/2020   3:38 PM                labs
